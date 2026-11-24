@@ -1,0 +1,5 @@
+kind: "Application"
+title: "Site Framework tutorial fixture"
+description: "Creates the content project and sample content for the Enonic Site Framework tutorial"
+vendorName: "Enonic"
+vendorUrl: "https://enonic.com"
